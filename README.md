@@ -1,17 +1,17 @@
 # AI-project-Predictive-Toxicology-
-Project Overview
+### Project Overview:
 Early prediction of drug toxicity is a critical challenge in drug discovery and development. This project focuses on using machine learning algorithms to analyze molecular structures and predict potential toxic effects. The project is mentored by Johan Rodriguez.
 
-Problem Statement
+### Problem Statement:
 Determining a drug's toxicity traditionally requires extensive laboratory testing and clinical trials, which are resource-intensive and costly. This project aims to develop a predictive model that identifies potentially toxic compounds early in the development process, saving resources and reducing the likelihood of adverse reactions in later trials.
 
-Objectives
+### Objectives:
 Develop a machine learning pipeline for toxicity prediction.
 Test various algorithms (Random Forest, Support Vector Machine, Neural Networks) for optimal predictive accuracy.
 Utilize datasets from PubChem and Tox21 for training and testing.
 Validate the model's performance against benchmark datasets.
 Methodology
-The project involves:
+### The project involves:
 
 Data Collection: Gathering data from PubChem and Tox21 on compounds and their toxicology profiles.
 Data Preprocessing: Cleaning, transforming, and feature extraction from chemical structures.
